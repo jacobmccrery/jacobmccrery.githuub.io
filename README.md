@@ -5,5 +5,5 @@
   </head>
   <body>
     <h1>Jacob McCrery</h1>
-    <h3>612-298-4309</h3>
-    <h3>3506 Garfield Ave S. Minneapolis, MN 55408</h3>
+    <h5>612-298-4309</h5>
+    <h5>3506 Garfield Ave S. Minneapolis, MN 55408</h5>
