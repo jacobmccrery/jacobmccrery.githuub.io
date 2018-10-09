@@ -7,4 +7,4 @@
     <h1>Jacob McCrery</h1>
     <h5>612-298-4309</h5>
     <h5>3506 Garfield Ave S. Minneapolis, MN 55408</h5>
-<img src="IMG_6017.jpeg">
+<img src="IMG_6017.jpeg" alt="kid sitting by a tree.">
